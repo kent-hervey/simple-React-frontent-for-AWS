@@ -1,3 +1,5 @@
+Very simple project for use as first React deployment to AWS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
